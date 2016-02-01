@@ -1,0 +1,96 @@
+{"name": "Compétences", "children": [
+    {"name":"Design", "children": [
+        {"name": "Logo", "size": 5000},
+        {"name": "Maquette", "size": 3200},
+        {"name": "Ergonomie", "size": 3500},
+        {"name": "Et plus", "size": 1300}
+    ]
+    },
+    {"name":"Réseaux", "children": [
+        {"name":"Cisco", "children": [
+            {"name": "CCNA1", "size": 2000},
+            {"name": "CCNA2", "size": 1500}
+        ]
+        },
+        {"name": "Serveur Apache", "size": 1200},
+        {"name": "NodeJS", "size": 800}
+    ]
+    },
+    {"name":"Développement informatique", "children": [
+        {"name": "Ionic", "size": 1500},
+        {"name":"Developpement Web", "children": [
+            {"name": "HTML", "size": 5938},
+            {"name": "CSS", "size": 4812},
+            {"name": "SASS / SCSS", "size": 4012},
+            {"name": "Responsive Design", "size": 3814},
+            {"name": "JavaScript", "size": 2014},
+            {"name": "PHP", "size": 2714},
+            {"name": "AngularJS", "size": 500},
+            {"name": "D3.js", "size": 743}
+        ]
+        },
+        {"name":"Developpement Logiciel", "children": [
+            {"name": "C", "size": 5538},
+            {"name": "C++", "size": 2800},
+            {"name": "Visual Basic Application", "size": 2500},
+            {"name": "Java", "size": 4012}
+        ]
+        }
+    ]
+    },
+    {"name":"Base de données", "children": [
+        {"name": "MySQL", "size": 5538},
+        {"name": "Merise", "size": 2538},
+        {"name": "Réalisation de MCD & MPD", "size": 3000},
+        {"name": "UML", "size": 1538}
+    ]
+    },
+    {"name":"Logiciels / Outils", "children": [
+        {"name":"Logiciels Bureautique", "children": [
+            {"name": "Suite Microsoft Office", "size": 4012},
+            {"name": "Open Office", "size": 2500}
+        ]},
+        {"name":"Logiciels Graphique", "children": [
+            {"name": "Photoshop", "size": 4043},
+            {"name": "Illustrator", "size": 1200}
+        ]},
+        {"name":"Logiciels / Outils Web", "children": [
+            {"name":"Outils Emailing", "children": [
+                {"name": "Dolist", "size": 1843}
+            ]},
+            {"name": "Brackets", "size": 3014},
+            {"name": "Piwik", "size": 2814},
+            {"name": "Axure", "size": 3514},
+            {"name": "WAMP", "size": 1600}
+        ]},
+        {"name":"Logiciels BDD", "children": [
+            {"name": "JMerise", "size": 1638},
+            {"name": "phpMyAdmin", "size": 2500},
+            {"name": "Access", "size": 2000},
+            {"name": "PowerAMC", "size": 1300}
+        ]},
+        {"name":"Logiciels Vidéo", "children": [
+            {"name": "Sony Vegas", "size": 2800},
+            {"name": "Captivate", "size": 1300},
+            {"name": "Première", "size": 1200}
+        ]}
+    ]
+    },
+    {"name":"Langues", "children": [
+        {"name":"Français", "children": [
+            {"name": "Langue Maternelle", "size": 4012}
+        ]
+        },
+        {"name":"Anglais", "children": [
+            {"name": "First Certificate in English", "size": 2512}
+        ]
+        },
+        {"name":"Espagnol", "children": [
+            {"name": "Niveau terminale", "size": 2212}
+        ]
+        }
+    ]
+    }
+ ]
+ }
+

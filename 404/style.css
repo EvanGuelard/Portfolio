@@ -1,0 +1,90 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+html, body, * {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Lobster';
+    color: #555;
+}
+
+ul, li, img {
+    width: 100%;
+}
+
+#content_bas {
+    padding: 15px;
+}
+
+h1 {
+   font-size: 60px; 
+}
+
+p {
+    font-size: 25px;
+}
+
+.bnt_lien {
+    font-size: 22px;
+    background: #6dc4ea; 
+    border: 2px solid #6dc4ea;
+    padding: 16px 22px;
+    display: inline-block;
+    color: #fff;
+    transition: all 0.3s ease-out;
+    text-align: center;
+    text-decoration: none;
+}
+
+.bnt_lien:hover{
+    background: #fff;  
+    color: #6dc4ea;
+    text-decoration:none;
+    transition: all 0.3s ease-out; 
+}
+
+#bas {
+    background-color: #fff;
+    width: 90%;
+    text-align: center;
+    padding: 0 5% 5% 5%;
+    display: block;
+    position: relative;
+    bottom: 100px;
+}
+
+@media screen and (max-width: 1780px) {
+    #bas { bottom: 90px; }
+}
+
+@media screen and (max-width: 1600px) {
+    #bas { bottom: 80px; }
+}
+
+@media screen and (max-width: 1420px) {
+    #bas { bottom: 70px; }
+}
+
+@media screen and (max-width: 1240px) {
+    #bas { bottom: 60px; }
+}
+
+@media screen and (max-width: 1060px) {
+    #bas { bottom: 50px; }
+}
+
+@media screen and (max-width: 860px) {
+    #bas { bottom: 40px; }
+}
+
+@media screen and (max-width: 680px) {
+    #bas { bottom: 30px; }
+}
+
+@media screen and (max-width: 460px) {
+    #bas { bottom: 20px; }
+}
+
+@media screen and (max-width: 310px) {
+    #bas { bottom: 10px; }
+}
