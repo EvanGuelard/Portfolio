@@ -92,7 +92,7 @@
                 <div id="description">    
                     <div id="divTxt">
                       <br><br><br><br>
-                       <p>Je suis <span class="gras">étudiant</span> en troisième année de cycle informatique et réseaux (CIR) à l'<span class="gras"><a href="http://www.isen.fr/brest/" target="_blank">ISEN Brest</a></span>. Depuis mon enfance, je suis passionné par <span class="gras">l'informatique</span>, j'ai donc choisi une voie me permettant de pratiquer différents domaines de l'informatique dès la première année de formation. J'aime aussi le <span class="gras">design</span>, je réalise des logos, bannières, miniatures et autres pour des amis et moi-même. Mes réalisations sont disponibles sur <a href="http://design.evanguelard.fr/" target="_blank">design.evanguelard.fr</a>. 
+                       <p>Je suis <span class="gras">étudiant</span> en troisième année de cycle informatique et réseaux (CIR) à l'<span class="gras"><a href="http://www.isen.fr/brest/" target="_blank">ISEN Brest</a></span>. Depuis mon enfance, je suis passionné par <span class="gras">l'informatique</span>, j'ai donc choisi une voie me permettant de pratiquer différents domaines de l'informatique dès la première année de formation. J'aime aussi le <span class="gras">design</span>, je réalise des logos, bannières, miniatures et autres pour des amis et moi-même. Mes réalisations sont disponibles sur <a href="https://design.evanguelard.fr/" target="_blank">design.evanguelard.fr</a>. 
                         <br><br>
                         <!--Actuellement à la <span class="gras">recherche</span> d'une année de contrat de professionnalisation (<span class="gras">alternance</span>) à partir d'octobre 2015.-->
                         </p>
